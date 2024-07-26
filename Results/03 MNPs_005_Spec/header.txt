@@ -1,0 +1,17 @@
+//Exported ASCII-File
+[Header]
+FileName = C:\Messungen......wip
+GraphName = MNPs_005_Spec.Data 1 (CRR) (Sub BG)
+SizeX = 1
+SizeY = 1
+SizeGraph = 1650
+PositionUnit = ï¿½m
+PositionX = -0.000844336967005862
+PositionY = -0.00250331908302678
+PositionZ = 0
+XAxisUnit = rel. 1/cm
+DataUnit = CCD cts
+
+[Data]
+X-Axis	MNPs_005_Spec.Data 1 (CRR) (Sub BG)
+rel. 1/cm	CCD cts

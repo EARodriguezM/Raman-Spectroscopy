@@ -1,0 +1,107 @@
+[[Model]]
+    (((((((((((((((((((((((((Model(lorentzian, prefix='p0_') + Model(lorentzian, prefix='p1_')) + Model(lorentzian, prefix='p2_')) + Model(lorentzian, prefix='p3_')) + Model(lorentzian, prefix='p4_')) + Model(lorentzian, prefix='p5_')) + Model(lorentzian, prefix='p6_')) + Model(lorentzian, prefix='p7_')) + Model(lorentzian, prefix='p8_')) + Model(lorentzian, prefix='p9_')) + Model(lorentzian, prefix='p10_')) + Model(lorentzian, prefix='p11_')) + Model(lorentzian, prefix='p12_')) + Model(lorentzian, prefix='p13_')) + Model(lorentzian, prefix='p14_')) + Model(lorentzian, prefix='p15_')) + Model(lorentzian, prefix='p16_')) + Model(lorentzian, prefix='p17_')) + Model(lorentzian, prefix='p18_')) + Model(lorentzian, prefix='p19_')) + Model(lorentzian, prefix='p20_')) + Model(lorentzian, prefix='p21_')) + Model(lorentzian, prefix='p22_')) + Model(lorentzian, prefix='p23_')) + Model(lorentzian, prefix='p24_')) + Model(lorentzian, prefix='p25_'))
+[[Fit Statistics]]
+    # fitting method   = leastsq
+    # function evals   = 28962
+    # data points      = 1650
+    # variables        = 78
+    chi-square         = 9400.04822
+    reduced chi-square = 5.97967444
+    Akaike info crit   = 3026.90023
+    Bayesian info crit = 3448.76561
+    R-squared          = 0.97325110
+##  Warning: uncertainties could not be estimated:
+    p5_amplitude:   at boundary
+    p6_amplitude:   at boundary
+    p10_amplitude:  at boundary
+    p10_sigma:      at boundary
+    p11_amplitude:  at boundary
+    p12_amplitude:  at boundary
+    p13_sigma:      at boundary
+    p14_sigma:      at boundary
+    p15_sigma:      at boundary
+    p16_center:     at initial value
+    p16_sigma:      at boundary
+    p18_sigma:      at boundary
+    p19_sigma:      at boundary
+    p20_amplitude:  at boundary
+    p23_amplitude:  at boundary
+[[Variables]]
+    p0_amplitude:   34.8011336 (init = 43.979)
+    p0_center:      135.482940 (init = 98.9509)
+    p0_sigma:       35.6745011 (init = 20)
+    p1_amplitude:   45.4554186 (init = 59.6821)
+    p1_center:      252.644858 (init = 260.241)
+    p1_sigma:       72.1740707 (init = 20)
+    p2_amplitude:   49.9047029 (init = 63.6826)
+    p2_center:      400.285581 (init = 410.105)
+    p2_sigma:       71.7956030 (init = 20)
+    p3_amplitude:   23.8266588 (init = 32.5651)
+    p3_center:      598.721941 (init = 595.789)
+    p3_sigma:       55.5380377 (init = 20)
+    p4_amplitude:   3.92158837 (init = 9.25586)
+    p4_center:      685.226271 (init = 734.389)
+    p4_sigma:       19.3675011 (init = 20)
+    p5_amplitude:   6.5037e-13 (init = 2.00467)
+    p5_center:      881.775667 (init = 878.631)
+    p5_sigma:       13.3243366 (init = 20)
+    p6_amplitude:   3.3287e-12 (init = 2.05157)
+    p6_center:      994.389198 (init = 1061.88)
+    p6_sigma:       1.00153395 (init = 20)
+    p7_amplitude:   9.81610941 (init = 1.68979)
+    p7_center:      1348.29405 (init = 1197.91)
+    p7_sigma:       54.7682301 (init = 20)
+    p8_amplitude:   9.53608790 (init = 12.6635)
+    p8_center:      1519.14849 (init = 1334.17)
+    p8_sigma:       48.2499056 (init = 20)
+    p9_amplitude:   17.7151551 (init = 21.7545)
+    p9_center:      1581.03569 (init = 1568.35)
+    p9_sigma:       30.0016585 (init = 20)
+    p10_amplitude:  4.6645e-12 (init = 2.26157)
+    p10_center:     1693.97675 (init = 1698.43)
+    p10_sigma:      1.00000007 (init = 20)
+    p11_amplitude:  4.3305e-12 (init = 1.19745)
+    p11_center:     1706.33802 (init = 1840.48)
+    p11_sigma:      2.17183831 (init = 20)
+    p12_amplitude:  5.5067e-14 (init = 1.8331)
+    p12_center:     1958.88205 (init = 1959.22)
+    p12_sigma:      14.0510125 (init = 20)
+    p13_amplitude:  0.27907022 (init = 2.31281)
+    p13_center:     2167.33859 (init = 2162.18)
+    p13_sigma:      1.00000000 (init = 20)
+    p14_amplitude:  1.14964431 (init = 2.6781)
+    p14_center:     2324.01235 (init = 2318.14)
+    p14_sigma:      1.00000000 (init = 20)
+    p15_amplitude:  2.39630428 (init = 2.57263)
+    p15_center:     2449.14367 (init = 2449.34)
+    p15_sigma:      1.00000000 (init = 20)
+    p16_amplitude:  1.96534493 (init = 2.23318)
+    p16_center:     2582.59755 (init = 2582.59)
+    p16_sigma:      1.00000000 (init = 20)
+    p17_amplitude:  3.04439157 (init = 2.57587)
+    p17_center:     2762.66979 (init = 2763.63)
+    p17_sigma:      2.07376527 (init = 20)
+    p18_amplitude:  3.14787988 (init = 4.11823)
+    p18_center:     2915.94562 (init = 2916.01)
+    p18_sigma:      1.00000000 (init = 20)
+    p19_amplitude:  3.59127528 (init = 2.4259)
+    p19_center:     3052.17919 (init = 3051.36)
+    p19_sigma:      1.00000000 (init = 20)
+    p20_amplitude:  9.9920e-15 (init = 2.73792)
+    p20_center:     3187.79152 (init = 3190.19)
+    p20_sigma:      17.7392992 (init = 20)
+    p21_amplitude:  1.43293375 (init = 2.8786)
+    p21_center:     3341.42841 (init = 3326.47)
+    p21_sigma:      16.1346450 (init = 20)
+    p22_amplitude:  2.19448596 (init = 4.49487)
+    p22_center:     3426.99939 (init = 3429.91)
+    p22_sigma:      4.25134638 (init = 20)
+    p23_amplitude:  5.0626e-13 (init = 2.87195)
+    p23_center:     3561.95042 (init = 3565.61)
+    p23_sigma:      4.01996883 (init = 20)
+    p24_amplitude:  3.86366666 (init = 5.31915)
+    p24_center:     3707.78859 (init = 3700.67)
+    p24_sigma:      35.8471309 (init = 20)
+    p25_amplitude:  8.93412154 (init = 11.2512)
+    p25_center:     3791.26485 (init = 3791.75)
+    p25_sigma:      34.0063872 (init = 20)

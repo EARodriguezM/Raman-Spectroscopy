@@ -1,0 +1,104 @@
+Peak 1:
+  Amplitude: 34.80
+  Center: 135.48
+  Sigma: 35.67
+Peak 2:
+  Amplitude: 45.46
+  Center: 252.64
+  Sigma: 72.17
+Peak 3:
+  Amplitude: 49.90
+  Center: 400.29
+  Sigma: 71.80
+Peak 4:
+  Amplitude: 23.83
+  Center: 598.72
+  Sigma: 55.54
+Peak 5:
+  Amplitude: 3.92
+  Center: 685.23
+  Sigma: 19.37
+Peak 6:
+  Amplitude: 0.00
+  Center: 881.78
+  Sigma: 13.32
+Peak 7:
+  Amplitude: 0.00
+  Center: 994.39
+  Sigma: 1.00
+Peak 8:
+  Amplitude: 9.82
+  Center: 1348.29
+  Sigma: 54.77
+Peak 9:
+  Amplitude: 9.54
+  Center: 1519.15
+  Sigma: 48.25
+Peak 10:
+  Amplitude: 17.72
+  Center: 1581.04
+  Sigma: 30.00
+Peak 11:
+  Amplitude: 0.00
+  Center: 1693.98
+  Sigma: 1.00
+Peak 12:
+  Amplitude: 0.00
+  Center: 1706.34
+  Sigma: 2.17
+Peak 13:
+  Amplitude: 0.00
+  Center: 1958.88
+  Sigma: 14.05
+Peak 14:
+  Amplitude: 0.28
+  Center: 2167.34
+  Sigma: 1.00
+Peak 15:
+  Amplitude: 1.15
+  Center: 2324.01
+  Sigma: 1.00
+Peak 16:
+  Amplitude: 2.40
+  Center: 2449.14
+  Sigma: 1.00
+Peak 17:
+  Amplitude: 1.97
+  Center: 2582.60
+  Sigma: 1.00
+Peak 18:
+  Amplitude: 3.04
+  Center: 2762.67
+  Sigma: 2.07
+Peak 19:
+  Amplitude: 3.15
+  Center: 2915.95
+  Sigma: 1.00
+Peak 20:
+  Amplitude: 3.59
+  Center: 3052.18
+  Sigma: 1.00
+Peak 21:
+  Amplitude: 0.00
+  Center: 3187.79
+  Sigma: 17.74
+Peak 22:
+  Amplitude: 1.43
+  Center: 3341.43
+  Sigma: 16.13
+Peak 23:
+  Amplitude: 2.19
+  Center: 3427.00
+  Sigma: 4.25
+Peak 24:
+  Amplitude: 0.00
+  Center: 3561.95
+  Sigma: 4.02
+Peak 25:
+  Amplitude: 3.86
+  Center: 3707.79
+  Sigma: 35.85
+Peak 26:
+  Amplitude: 8.93
+  Center: 3791.26
+  Sigma: 34.01
